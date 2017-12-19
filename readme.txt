@@ -6,3 +6,7 @@ this is a new bad line that I would delete.
 This is the last line.
 We have a good job here.
 the end of the test of file.
+
+
+
+this time the file is stored to the buffer.

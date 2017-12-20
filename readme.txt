@@ -11,3 +11,6 @@ the end of the test of file.
 
 this time the file is stored to the buffer.
 the same line of 10:12.
+
+
+This line is add before I go to shanghai.
